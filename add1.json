@@ -1,0 +1,27 @@
+[
+    {
+        "firstName": "Aishwarya",
+        "lastName:": "Ingle",
+        "patientId": "24",
+        "address": "ShivajiNagar",
+        "city": "Aurangabad",
+        "state": "Maharashtra",
+        "zip": "431001",
+        "phoneNumber": "91 9436777002",
+        "email": "aisha3@gmail.com",
+        "blood": " AB+"
+    },
+    {
+        "firstName": "Pooja",
+        "lastName": "Sharma",
+        "patientId": "88",
+        "address": "Pusghgdg",
+        "city": "Yhbchsd",
+        "state": "Nhdsfsdf",
+        "zip": "765678",
+        "phoneNumber": "91 2345678909",
+        "email": "pooja3@gmail.com",
+        "blood": "AB+",
+        "gender": "Female"
+    }
+]
